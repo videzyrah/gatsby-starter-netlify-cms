@@ -11,16 +11,16 @@ mainpitch:
 description: https://www.gatsbyjs.com/starters/netlify-templates/gatsby-starter-netlify-cms/
 intro:
   blurbs:
-    - image: /img/chemex.jpg
+    - image: /img/20220913_075239.jpg
       text: |
         Look at this picture!
-    - image: /img/blog-index.jpg
+    - image: /img/20220913_075432.jpg
       text: |
         There's another picture!
-    - image: /img/flavor_wheel.jpg
+    - image: /img/20220913_075738.jpg
       text: |
         Just admit you like looking at pictures.
-    - image: /img/home-jumbotron.jpg
+    - image: /img/20220913_075934.jpg
       text: |
         Happy Now?
   heading: What we offer
