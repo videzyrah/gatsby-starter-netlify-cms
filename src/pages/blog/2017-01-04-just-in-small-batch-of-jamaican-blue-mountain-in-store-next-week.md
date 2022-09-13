@@ -1,16 +1,14 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+templateKey: blog-post
+title: " Instant Pot Sausage Links"
+date: 2022-09-13T13:07:36.946Z
+description: 2 minutes on high pressure seems to work out ok.
 featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+featuredimage: /img/20220808_003146.jpg
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - Sausage
+  - InstantPot
+  - MealsForMySelf
 ---
 
 We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
