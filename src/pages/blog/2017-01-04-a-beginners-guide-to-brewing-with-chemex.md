@@ -4,7 +4,7 @@ title: I Got an Instant Pot For Christmas
 date: 2017-01-04T15:04:10.000Z
 description: I Got an Instant Pot Mini for Christmas of 2019 (i.e. just before Covid era)
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/20220913_075432.jpg
 tags:
   - InstantPot
   - MealsForMyself
