@@ -11,7 +11,7 @@ tags:
   - HellsKitchenCounterAttack
   - SurvivingSingle
 ---
-![chemex](/img/chemex.jpg)
+![chemex](/img/20220913_075432.jpg)
 
 The recipe booklet that comes with it kinda sucks.
 
