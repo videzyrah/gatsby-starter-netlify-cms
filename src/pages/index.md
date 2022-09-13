@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Recipes, Reviews, & Research
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Highly useful informationfor humans
+image: /img/frontendmeetupbull.png
+heading: Yes, you are interested!
+subheading: Highly useful information for humans
 mainpitch:
   title: Greg's Gatsby Blog
   description: |
@@ -11,16 +11,16 @@ mainpitch:
 description: https://www.gatsbyjs.com/starters/netlify-templates/gatsby-starter-netlify-cms/
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/20220913_075239.jpg
       text: |
         Look at this picture!
-    - image: /img/coffee-gear.png
+    - image: /img/20220913_075432.jpg
       text: |
         There's another picture!
-    - image: /img/tutorials.png
+    - image: /img/20220913_075738.jpg
       text: |
         Just admit you like looking at pictures.
-    - image: /img/meeting-space.png
+    - image: /img/20220913_075934.jpg
       text: |
         Happy Now?
   heading: What we offer
