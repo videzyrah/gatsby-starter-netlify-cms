@@ -3,7 +3,7 @@ templateKey: blog-post
 title: " Instant Pot Sausage Links"
 date: 2022-09-13T13:07:36.946Z
 description: 2 minutes on high pressure (natural release) seems to work out ok.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/20220808_003146.jpg
 tags:
   - Sausage
