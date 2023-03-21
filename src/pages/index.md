@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Recipes, Reviews, & Research
-image: /img/frontendmeetupbull.png
+image: /img/20221018_133327.jpg
 heading: Yes, you are interested!
 subheading: Highly useful information for humans
 mainpitch:
@@ -11,12 +11,12 @@ mainpitch:
 description: https://www.gatsbyjs.com/starters/netlify-templates/gatsby-starter-netlify-cms/
 intro:
   blurbs:
-    - image: /img/20220913_075239.jpg
-      text: |
-        Look at this picture!
     - image: /img/20220913_075432.jpg
       text: |
         There's another picture!
+    - image: /img/20220913_075239.jpg
+      text: |
+        Look at this picture!
     - image: /img/20220913_075738.jpg
       text: |
         Just admit you like looking at pictures.
