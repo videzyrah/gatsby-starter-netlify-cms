@@ -7,7 +7,7 @@ import facebook from "../img/social/facebook.svg";
 const Footer = () => {
   
     return (
-      <footer className="footer has-background-black has-text-white-ter">
+      <footer className="footer ">
         <div className="content has-text-centered">
           <img
             src={logo}
