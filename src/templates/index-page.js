@@ -32,7 +32,7 @@ export const IndexPageTemplate = ({
                   <div className="column is-12">
                     <p>A blog dedicated to budget conscious solutions for those of us shopping and cooking for one.</p>
                     <h3 className="has-text-weight-semibold is-size-2">
-                      Articles to read:
+                      The Dark Materials:
                     </h3>
                     <BlogRoll />
                     <div className="column is-12 has-text-centered">
