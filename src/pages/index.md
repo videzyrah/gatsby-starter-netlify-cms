@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: MEALS FOR MYSELF
-image: /img/20221018_133327.jpg
+image: /img/20230321_115551.jpg
 heading: Yes, you are interested!
 subheading: Recipes Reviews Research
 mainpitch:
