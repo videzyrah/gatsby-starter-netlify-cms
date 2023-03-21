@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Recipes, Reviews, & Research
+title: MEALS FOR MYSELF
 image: /img/20221018_133327.jpg
 heading: Yes, you are interested!
-subheading: Highly useful information for humans
+subheading: Recipes Reviews Research
 mainpitch:
   title: Greg's Gatsby Blog
   description: |
