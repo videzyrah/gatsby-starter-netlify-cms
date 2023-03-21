@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Bologna Binge "
 date: 2022-09-13T13:02:43.584Z
 description: Not premeditated at all.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/20220731_061358.jpg
 tags:
   - bologna
