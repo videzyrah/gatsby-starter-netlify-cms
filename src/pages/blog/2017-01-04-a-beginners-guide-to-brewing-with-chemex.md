@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: I Got an Instant Pot For Christmas
+title: I Got an Instant Pot For Christmas in 2019
 date: 2017-01-04T15:04:10.000Z
-description: I Got an Instant Pot Mini for Christmas of 2019 (i.e. just before Covid era)
+description: "I Got an Instant Pot Mini for Christmas of 2019 (i.e. just before Covid era) "
 featuredpost: false
 featuredimage: /img/20220913_075432.jpg
 tags:
@@ -11,7 +11,7 @@ tags:
   - HellsKitchenCounterAttack
   - SurvivingSingle
 ---
-![chemex](/img/20220913_075432.jpg)
+![Instantpot mini](/img/20220913_075432.jpg)
 
 The recipe booklet that comes with it kinda sucks.
 
